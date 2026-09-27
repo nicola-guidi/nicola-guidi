@@ -4,9 +4,9 @@ Offensive security practitioner from Tuscany, Italy, focused on **penetration te
 Currently looking for my first full-time penetration testing role.
 
 [![OSCP+](https://img.shields.io/badge/OSCP%2B-990000?style=for-the-badge&logo=offsec&logoColor=white)](https://credentials.offsec.com/48ea1fae-bb6c-491a-acf4-afcfdc127905)
-[![eCPPTv3](https://img.shields.io/badge/eCPPTv3-1f6feb?style=for-the-badge)](https://certs.ine.com/bdb39f83-304e-4dc8-89bd-d6a91e3391a9)
+[![eCPPT](https://img.shields.io/badge/eCPPTv3-1f6feb?style=for-the-badge)](https://certs.ine.com/bdb39f83-304e-4dc8-89bd-d6a91e3391a9)
 [![eWPT](https://img.shields.io/badge/eWPT-1f6feb?style=for-the-badge)](https://certs.ine.com/6019b635-efac-4a6d-a3f2-4045e0e13b4d)
-[![eJPTv2](https://img.shields.io/badge/eJPTv2-1f6feb?style=for-the-badge)](https://certs.ine.com/ade1c391-114d-4853-83c8-1f08ea9966a1)
+[![eJPT](https://img.shields.io/badge/eJPTv2-1f6feb?style=for-the-badge)](https://certs.ine.com/ade1c391-114d-4853-83c8-1f08ea9966a1)
 ![CRTA](https://img.shields.io/badge/CRTA-1f6feb?style=for-the-badge)
 [![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/earner/earned/badge/bc63161b-2b9c-430a-8e2b-086cf710f570)
 
