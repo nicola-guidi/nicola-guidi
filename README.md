@@ -19,7 +19,6 @@ Currently looking for my first full-time penetration testing role.
 - Internal network and Active Directory penetration testing
 - Web application security
 - Scripting and automation for offensive workflows (Python, Bash)
-- Offensive security for AI systems: LLM prompt injection, data leakage, insecure integrations *(currently exploring)*
 
 ---
 
