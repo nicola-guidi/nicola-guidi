@@ -31,7 +31,7 @@ Currently looking for my first full-time penetration testing role.
 |------|-------------|
 | [brutus](https://github.com/nicola-guidi/brutus) | Multi-threaded SSH credential testing tool in Python, with PoC |
 | [knocker](https://github.com/nicola-guidi/knocker) | Multi-threaded TCP port scanner in pure Python (stdlib only) |
-| [kestrel](https://github.com/nicola-guidi/kestrel) | Bug bounty recon pipeline chaining subfinder, httpx, katana & more |
+| [kestrel](https://github.com/nicola-guidi/kestrel) | Program-aware bug bounty recon that stays in scope by design |
 | [static-file-analyzer](https://github.com/nicola-guidi/static-file-analyzer) | Static triage of suspicious files: magic bytes, hashes, embedded IOCs |
 
 ## Home Lab
